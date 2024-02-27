@@ -1,0 +1,5 @@
+pyppeteer
+retrying
+sys
+pyinstaller
+PyQt6
